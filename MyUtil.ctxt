@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MyUtil
+comment0.text=\r\n\ This\ class\ contains\ a\ range\ of\ static\ methods\ I\ will\ be\ using\ for\ utilitarian\ purposes\r\n\r\n\ @author\ (YK)\r\n\ @version\ (5/3/2020)\r\n
+comment1.params=limit
+comment1.target=int\ random(int)
+comment2.params=limit
+comment2.target=int\ randomFromZero(int)
+comment3.params=Message
+comment3.target=java.lang.String\ Ask(java.lang.String)
+comment4.params=Message
+comment4.target=void\ print(java.lang.String)
+numComments=5

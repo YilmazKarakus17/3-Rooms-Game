@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HeroInitializerIO
+comment0.text=\r\n\ Simple\ frame\ that\ only\ shows\ stats\ of\ the\ hero\r\n\r\n\ @author\ (YK)\r\n\ @version\ (14/3/20)\r\n
+comment1.params=FileName
+comment1.target=HeroInitializerIO(java.lang.String)
+comment1.text=Constructor\ *************
+comment2.params=chosenHero
+comment2.target=void\ changeToChooseName(Hero)
+comment3.params=
+comment3.target=void\ changeToChooseHero()
+comment4.params=
+comment4.target=void\ Dispose()
+comment5.params=
+comment5.target=java.lang.String\ getFileName()
+numComments=6

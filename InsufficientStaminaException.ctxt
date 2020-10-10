@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=InsufficientStaminaException
+comment0.text=\r\n\ My\ own\ checked\ exception\ class\ that\ is\ used\ when\ player\ does\ not\ have\ enough\ stamina\ and\ it\ is\ thrown\ \r\n\r\n\ @author\ (YK)\r\n\ @version\ (14/3/2020)\r\n
+comment1.params=
+comment1.target=InsufficientStaminaException()
+numComments=2

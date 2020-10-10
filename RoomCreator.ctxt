@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=RoomCreator
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RoomCreator\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=ParamPlayer\ AmountOfVillians
+comment1.target=RoomCreator(Hero,\ int)
+comment1.text=Constructors\ ***********
+comment2.params=roomNumber
+comment2.target=void\ CreateRoomGUI(int)
+comment2.text=Instance\ Methods\ ********
+comment3.params=
+comment3.target=Items\ getItem()
+comment4.params=
+comment4.target=void\ decrementEnemyCount()
+comment5.params=
+comment5.target=int\ getVillainAmount()
+comment6.params=
+comment6.target=Character[]\ getVillains()
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GameIO
+comment0.text=\r\n\ This\ class\ is\ the\ main\ game\ class,\ where\ the\ frame\ containing\ the\ rooms\ and\ all\ the\ options\ the\ game\ has\ to\ offer\r\n\r\n\ @author\ (YK)\r\n\ @version\ (25/03/2020)\r\n
+comment1.params=Player\ FileName
+comment1.target=GameIO(Hero,\ java.lang.String)
+comment1.text=Constructors\ ********
+comment2.params=
+comment2.target=void\ changeRoom()
+comment3.params=
+comment3.target=void\ lostGame()
+comment4.params=
+comment4.target=void\ winGame()
+comment5.params=
+comment5.target=int\ getRoomNumber()
+comment6.params=
+comment6.target=int\ getRoomsAllowed()
+comment7.params=
+comment7.target=void\ incrementRoomNumber()
+numComments=8

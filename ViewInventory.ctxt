@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ViewInventory
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ViewInventory\ here.\r\n\r\n\ @author\ (k)\r\n\ @version\ (27/03/2020)\r\n
+comment1.params=inventory
+comment1.target=ViewInventory(java.util.ArrayList)
+numComments=2

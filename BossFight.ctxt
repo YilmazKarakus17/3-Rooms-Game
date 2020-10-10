@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BossFight
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BossFight\ here.\r\n\r\n\ @author\ (yk)\r\n\ @version\ (26/03/2020)\r\n
+comment1.params=Player\ Boss\ currentRoom\ gameOutput\ game
+comment1.target=BossFight(Hero,\ Character,\ RoomCreator,\ gameOutputPanel,\ GameIO.GamePanel)
+numComments=2

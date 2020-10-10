@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HowToPlayWindow
+comment0.text=\r\n\ This\ is\ a\ class\ that\ extends\ JFrame\ and\ includes\ many\ different\ tips\ on\ how\ the\ game\ works\r\n\ Page\ 1\ -\ Final\ Boss\r\n\ Page\ 2\ -\ How\ to\ Move\ Around\ the\ Rooms\r\n\ @author\ (YK)\r\n\ @version\ (20/03/2020)\r\n
+comment1.params=
+comment1.target=HowToPlayWindow()
+comment1.text=Constructor\ ********
+comment2.params=
+comment2.target=void\ ChangeToPage1()
+comment3.params=
+comment3.target=void\ ChangeToPage2()
+numComments=4

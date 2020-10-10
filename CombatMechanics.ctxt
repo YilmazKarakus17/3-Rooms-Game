@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CombatMechanics
+comment0.text=\r\n\ Abstract\ class\ Mechanics\ -\ Where\ the\ games\ combat\ mechanics\ are\ declared\r\n\r\n\ @author\ (Yilmaz\ Karakus)\r\n\ @version\ (3/3/2020)\r\n
+comment1.params=PlayerItemArray
+comment1.target=int\ getCombinedDamageOfItems(java.util.ArrayList)
+comment2.params=PlayerItemArray
+comment2.target=double\ getCombinedArmourAffectOfItems(java.util.ArrayList)
+comment3.params=Villain\ Player\ combatIO
+comment3.target=void\ villainAttack(Character,\ Hero,\ CombatPanel)
+comment3.text=Player\ Attacks\ Moves\ *****************
+comment4.params=counter\ speed
+comment4.target=boolean\ checkIfEnemyAttacks(int,\ int)
+comment5.params=Player\ Enemy
+comment5.target=void\ enemyDead(Hero,\ Character)
+comment6.params=Player\ Villain
+comment6.target=void\ PrimaryAttack(Hero,\ Character)
+comment7.params=Player\ Villain
+comment7.target=void\ SecondaryAttack(Hero,\ Character)
+numComments=8

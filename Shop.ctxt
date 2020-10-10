@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Shop
+comment0.text=\r\n\ Class\ that\ is\ used\ to\ create\ a\ shop\ object\ which\ the\ player\ can\ buy\ items\ from\r\n\r\n\ @author\ (yk)\r\n\ @version\ (9/3/20)\r\n
+comment1.params=
+comment1.target=Shop()
+comment2.params=Player\ shop
+comment2.target=Items\ buyChest(Hero,\ ShopIO)
+comment3.params=Player
+comment3.target=void\ BuyTraining(Hero)
+comment4.params=Player
+comment4.target=void\ BuySharpness(Hero)
+comment5.params=Player
+comment5.target=void\ BuyShieldPerk(Hero)
+comment6.params=funds\ cost
+comment6.target=void\ AuthorisePayment(int,\ int)
+comment7.params=Player\ amount
+comment7.target=void\ CarryOutTransaction(Hero,\ int)
+comment8.params=
+comment8.target=int\ getChestPrice()
+comment8.text=Getter\ Methods\ *********
+numComments=9

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Knight
+comment0.text=\r\n\ Warrior\ subclass\ Knight\ that\ has\ 25%\ to\ not\ take\ damage\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Knight()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BigJeff\r\n
+comment2.params=
+comment2.target=int\ primaryAttack()
+comment2.text=Overriding\ Methods\ ************
+comment3.params=
+comment3.target=int\ secondaryAttack()
+comment4.params=DamageGiven
+comment4.target=void\ takeDamage(int)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+numComments=6

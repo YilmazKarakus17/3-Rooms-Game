@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Death
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Death\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Death()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Warlock\r\n
+comment2.params=BossBonus
+comment2.target=Death(int)
+comment2.text=Constructor\ For\ Final\ Boss\ *****************************
+comment3.params=
+comment3.target=int\ primaryAttack()
+comment3.text=Overriding\ Methods\ ************
+comment4.params=
+comment4.target=int\ secondaryAttack()
+comment5.params=DamageGiven
+comment5.target=void\ takeDamage(int)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+numComments=7

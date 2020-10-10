@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Items
+comment0.text=\r\n\ Abstract\ class\ Items\ -\ superclass\ to\ specialized\ items\ and\ aims\ to\ provide\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ standardised\ methods\r\n\ @author\ (your\ name\ here)\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
+comment1.params=Damage\ Block\ Durability
+comment1.target=Items(int,\ int,\ double)
+comment1.text=Constructor\ *****
+comment2.params=
+comment2.target=int\ getDamage()
+comment2.text=Getter\ Methods\ *****
+comment3.params=
+comment3.target=double\ getBlock()
+comment4.params=
+comment4.target=double\ getDurability()
+comment5.params=amount
+comment5.target=void\ setDurability(double)
+comment5.text=Setter\ Methods\ *****
+comment6.params=
+comment6.target=int\ AffectOnPlayerDamage()
+comment6.text=Abstract\ Methods\ *****
+comment7.params=
+comment7.target=double\ AffectOnPlayerArmour()
+comment8.params=
+comment8.target=void\ DecreaseDurability()
+comment9.params=
+comment9.target=java.lang.String\ getInfo()
+numComments=10

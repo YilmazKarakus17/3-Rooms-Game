@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Initializer
+comment0.text=\r\n\ Abstract\ class\ Initializer\ -\ this\ abstract\ class\ contains\ static\ functions\ and\ procedures\ which\ initialize\ certain\ game\ aspects\ \r\n\r\n\ @author\ (YK)\r\n\ @version\ (6/3/2020)\r\n
+comment1.params=arraySize
+comment1.target=Character[]\ InitializeVillainsArray(int)
+comment1.text=Initializes\ villians\ for\ a\ Character\ array\ and\ returns\ the\ whole\ array\ **************
+comment2.params=Player
+comment2.target=Items\ InitializeItem(Hero)
+comment2.text=Initializes\ a\ random\ item\ ************
+comment3.params=
+comment3.target=Items\ InitializeItem()
+comment4.params=AmountVillains
+comment4.target=int\ initializeRoomRow(int)
+comment4.text=Room\ Initializers\ ****************************
+comment5.params=AmountVillains
+comment5.target=int\ initializeRoomCols(int)
+comment6.params=
+comment6.target=javax.swing.ImageIcon\ initializeRoomImage()
+comment7.params=GUIRow
+comment7.target=int\ getLocationRow(int)
+comment8.params=GUICol
+comment8.target=int\ getLocationCol(int)
+numComments=9

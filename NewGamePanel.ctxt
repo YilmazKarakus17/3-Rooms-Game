@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=NewGamePanel
+comment0.text=\r\n\ Panel\ class\ that\ extends\ JPanel\ and\ is\ used\ as\ IO\ for\ when\ player\ creates\ a\ new\ game\r\n\r\n\ @author\ (YK)\r\n\ @version\ (21/03/2020)\r\n
+comment1.params=window
+comment1.target=NewGamePanel(HomePage)
+comment1.text=Constructor\ ********
+comment2.params=
+comment2.target=void\ createGameSave()
+comment2.text=Instance\ methods\ *****************************************************
+comment3.params=
+comment3.target=void\ CreateFile()
+comment4.params=
+comment4.target=void\ checkFileDirectoryExists()
+comment5.params=filename
+comment5.target=void\ PickCharacter(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getValidatedFileName()
+comment7.params=newFile
+comment7.target=boolean\ CheckIfFileExists(java.io.File)
+comment8.params=g
+comment8.target=void\ paintComponent(java.awt.Graphics)
+comment8.text=Overriding\ the\ inherited\ paintComponent\ method\ ********
+comment9.params=event
+comment9.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.text=Implementing\ the\ method\ in\ events\ interface\ ********
+numComments=10

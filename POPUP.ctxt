@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=POPUP
+comment0.text=\r\n\ Simple\ subclass\ to\ Jframe\ used\ to\ display\ a\ message\r\n\r\n\ @author\ (YK)\r\n\ @version\ (20/03/2020)\r\n
+comment1.params=Message
+comment1.target=POPUP(java.lang.String)
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

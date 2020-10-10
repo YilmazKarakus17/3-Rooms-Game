@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ItemProcessing
+comment0.text=\r\n\ This\ is\ a\ superclass\ to\ many\ specialized\ subclasses\ that\ process\ game\ mechanics\ \r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=item
+comment1.target=boolean\ instanceofGoldenSword(Items)
+comment2.params=item
+comment2.target=boolean\ instanceofKnife(Items)
+comment3.params=item
+comment3.target=boolean\ instanceofShield(Items)
+comment4.params=ItemsList
+comment4.target=boolean\ checkArrayForGoldenSword(java.util.ArrayList)
+comment5.params=ItemsList
+comment5.target=boolean\ checkArrayForKnife(java.util.ArrayList)
+comment6.params=ItemsList
+comment6.target=boolean\ checkArrayForShield(java.util.ArrayList)
+numComments=7
